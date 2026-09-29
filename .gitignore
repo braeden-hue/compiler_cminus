@@ -1,0 +1,24 @@
+# Bison/Flex generated files (regenerate with: bison -d -y cminus.y)
+y.tab.c
+y.tab.h
+y.output
+lex.yy.c
+
+# Build artifacts
+*.o
+*.obj
+cminus
+cminus.exe
+cminus_dbg
+cminus_dbg.exe
+symtab_test
+symtab_test.exe
+
+# Test/sample source programs & compiler output
+*.cm
+*.tny
+*.tm
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
